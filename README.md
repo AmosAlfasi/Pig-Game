@@ -10,3 +10,5 @@ either a 1 is roller or the player dicides to "hold":
 the winner is the first player that reach 100.
   
 Enjoy :)
+
+https://amosalfasi.github.io/Pig-Game/
